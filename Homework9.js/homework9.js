@@ -431,3 +431,9 @@
 //         document.write(mass[i], " ");
 //     }
 // }
+// let number=[Math.random()*100];
+// numbers=[];
+// for (i=0;i<1;i++){
+//   numbers=numbers+number*5
+// }
+// console.log(numbers)
